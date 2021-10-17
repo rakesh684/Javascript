@@ -11,7 +11,7 @@
 function calAge(a){
   if(a==0){
     console.log("0");
-    return;
+    
   }
   else if(a%4==0){
     return;
@@ -20,4 +20,4 @@ function calAge(a){
     console.log(a*365);
   }
 }
-calAge(65);
+calAge(0);
