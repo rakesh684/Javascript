@@ -8,16 +8,19 @@
 
 
 //Convert age to Days leap year is not consider
-function calAge(a){
-  if(a==0){
-    console.log("0");
+// function calAge(a){
+//   if(a==0){
+//     console.log("0");
     
-  }
-  else if(a%4==0){
-    return;
-  }
-  else{
-    console.log(a*365);
-  }
-}
-calAge(0);
+//   }
+//   else if(a%4==0){
+//     return;
+//   }
+//   else{
+//     console.log(a*365);
+//   }
+// }
+// calAge(0);
+
+
+
